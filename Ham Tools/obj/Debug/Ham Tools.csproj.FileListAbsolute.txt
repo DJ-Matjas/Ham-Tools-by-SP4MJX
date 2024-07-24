@@ -1,0 +1,10 @@
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\bin\Debug\Ham Tools.exe.config
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\bin\Debug\Ham Tools.exe
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\bin\Debug\Ham Tools.pdb
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\obj\Debug\Ham Tools.csproj.AssemblyReference.cache
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\obj\Debug\Ham_Tools.Properties.Resources.resources
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\obj\Debug\Ham Tools.csproj.GenerateResource.cache
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\obj\Debug\Ham Tools.csproj.CoreCompileInputs.cache
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\obj\Debug\Ham Tools.exe
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\obj\Debug\Ham Tools.pdb
+C:\Users\djmat\Documents\VS_Studio\Ham Tools\Ham Tools\obj\Debug\Ham_Tools.mainWindow.resources
