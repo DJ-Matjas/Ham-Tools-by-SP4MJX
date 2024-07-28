@@ -2,6 +2,8 @@
 
 Tool for Ham radio operators, providing basic info useful while having QSO: UTC clock, local clock and date, WX (temperature), and solar map from hamqsl.com.
 
+![Ham Tools Screenshot](images/app.png)
+
 ## Requirements
 - Arduino (tested on UNO; Nano doesn't work with some computers, but may work on other Arduino boards)
 - Computer with x64 CPU
