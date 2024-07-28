@@ -23,6 +23,8 @@ Tool for Ham radio operators, providing basic info useful while having QSO: UTC 
 9. Complete the first-time configuration.
 10. Restart the program.
 
+![Ham Tools Settings Screenshot](images/settings.png)
+
 Congratulations, you're all done!
 
 ## Usage
